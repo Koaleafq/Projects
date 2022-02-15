@@ -1,0 +1,8 @@
+me\bbps\bedwars\trade\event\OpenMenu.class
+me\bbps\bedwars\trade\TradingMenu.class
+me\bbps\bedwars\trade\VaultType.class
+me\bbps\bedwars\trade\MenuSlot.class
+me\bbps\bedwars\commands\GameSettingsCMDs.class
+me\bbps\bedwars\arena\Arena.class
+me\bbps\bedwars\Main.class
+me\bbps\bedwars\trade\TradeItemSlot.class

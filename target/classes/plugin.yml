@@ -1,0 +1,12 @@
+name: FirstPlagin
+main: me.bbps.FirstPlagin.Main
+version: 1.0
+author: bbps
+
+commands:
+  bwSetup:
+    aliases:
+      - bws
+      - bedWarsSetup
+
+    description: Это главная команда настройки плагина.
